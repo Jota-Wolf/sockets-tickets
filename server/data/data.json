@@ -1,1 +1,23 @@
-{"ultimo":4,"hoy":21,"tickets":[],"ultimosCuatro":[{"numero":4,"escritorio":"21"},{"numero":3,"escritorio":"21"},{"numero":2,"escritorio":"21"},{"numero":1,"escritorio":"21"}]}
+{
+    "ultimo": 4,
+    "hoy": 0,
+    "tickets": [],
+    "ultimosCuatro": [
+        {
+            "numero": 4,
+            "escritorio": "21"
+        },
+        {
+            "numero": 3,
+            "escritorio": "21"
+        },
+        {
+            "numero": 2,
+            "escritorio": "21"
+        },
+        {
+            "numero": 1,
+            "escritorio": "21"
+        }
+    ]
+}
